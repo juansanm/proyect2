@@ -1,4 +1,4 @@
-# Forest Cover Type Prediction - MLOps Pipeline
+# MLOps Pipeline
 
 Este proyecto implementa un pipeline de Machine Learning utilizando tecnologías como Apache Airflow, MLflow, FastAPI y Streamlit. Se emplea un modelo de Random Forest para predecir el tipo de cobertura forestal basado en datos de sensores ambientales.
 
