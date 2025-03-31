@@ -2,7 +2,36 @@
 
 Este proyecto implementa un pipeline de Machine Learning utilizando tecnologías como Apache Airflow, MLflow, FastAPI y Streamlit. Se emplea un modelo de Random Forest para predecir el tipo de cobertura forestal basado en datos de sensores ambientales.
 
-##Proyecto corriendo en Azure Microsoft
+## Proyecto corriendo en Azure Microsoft
+Se crea el proyecto
+
+![Se crea el proyecto](https://github.com/juansanm/proyect2/blob/main/p/1.png)
+
+Verificacion de estados
+
+![-](https://github.com/juansanm/proyect2/blob/main/p/2.png)
+
+
+Verificamos que los puertos estén activos, en este caso de ejemplo el 8503 de Streamlit
+
+
+![-](https://github.com/juansanm/proyect2/blob/main/p/3.png)
+
+
+![-](https://github.com/juansanm/proyect2/blob/main/p/4.png)
+
+Funcionamiento ejemplos:
+
+
+![-](https://github.com/juansanm/proyect2/blob/main/p/5.png)
+
+
+![-](https://github.com/juansanm/proyect2/blob/main/p/6.png)
+
+
+Costos referentes a este proceso por 4 dias de VM para un servicio de Azure
+
+![-](https://github.com/juansanm/proyect2/blob/main/p/7.png)
 
 
 ## Arquitectura del Proyecto
@@ -85,5 +114,9 @@ La aplicación en Streamlit permite visualizar predicciones de manera interactiv
 
 ## Cierre
 
-Este proyecto proporciona una infraestructura completa para el entrenamiento, almacenamiento, despliegue e inferencia de modelos de Machine Learning en un entorno de producción utilizando MLOps.
+Este proyecto proporciona una infraestructura completa para el entrenamiento, almacenamiento, despliegue e inferencia de modelos de Machine Learning en un entorno de producción utilizando MLOps
+
+## Realizado y sufrido por:
+Juan Felipe Gonzalez Sanmiguel
+
 
